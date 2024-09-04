@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+    margin-right: auto;
+    background-color:rgb(49, 49, 145) ;
+    
+    
+}    
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pokemon{
+    border-radius: 8px;
+    background-color: rgb(252, 249, 249);
+}
+
+#buscar{
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: rgb(84, 125, 236);
+}
+
+#buscar:hover{
+    cursor: pointer;
+    background-color: rgb(49, 49, 145);
+
+}
+
+#id{
+    color: aliceblue;
+    background-color: rgb(97, 59, 168);
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    border: solid;
+    
+}
